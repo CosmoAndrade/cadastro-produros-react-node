@@ -1,0 +1,18 @@
+h2.titulo {
+    margin-top: 20px;
+    color: #363636;
+}
+
+table.table {
+    margin-top: 10px;
+    box-shadow: 0 0 10px 0 rgb(50 50 50 / 82%);
+}
+
+table>thead {
+    font-weight: 600;
+    background: #ddd;
+}
+
+div.modal-dialog{
+    max-width: 700px;
+}
